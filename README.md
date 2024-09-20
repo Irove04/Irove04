@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Irove04
+- 👋 Hi, I’m @Irove04 Cristina
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning java, html, css, js
 - 😄 Pronouns: she/her
