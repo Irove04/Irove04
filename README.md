@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Irove04 Cristina
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning java, html, css, js
+- 🌱 I’m currently learning java, html, css, js, sql
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like cats
 
