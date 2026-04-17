@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Irove04 Cristina
-- 🌱 I’m currently learning java, html, css, js, sql, php
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I like cats
-
-<!---
-Irove04/Irove04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Hi, I’m @Irove04
+-Pronouns: she/her
+-I'm a technician in hardware and software plus a web aplications developer
+-I have a middle vocational course in Micro Computing and a high vocational course of Development of Web Applications (both taken in IES El Caminàs, spain)
+-I have two cats, I love reading, playing videogames and I collect tamagotchis
