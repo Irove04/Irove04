@@ -1,5 +1,5 @@
--Hi, I’m @Irove04
--Pronouns: she/her
--I'm a technician in hardware and software plus a web aplications developer
--I have a middle vocational course in Micro Computing and a high vocational course of Development of Web Applications (both taken in IES El Caminàs, spain)
--I have two cats, I love reading, playing videogames and I collect tamagotchis
+- Hi, I’m @Irove04
+- Pronouns: she/her
+- I'm a technician in hardware and software plus a web aplications developer
+- I have a middle vocational course in Micro Computing and a high vocational course of Development of Web Applications (both taken in IES El Caminàs, spain)
+- I have two cats, I love reading, playing videogames and I collect tamagotchis
