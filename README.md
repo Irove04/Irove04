@@ -1,5 +1,5 @@
 - Hi, I’m @Irove04
 - Pronouns: she/her
-- I am a Hardware and Software Technician and a Full Stack Web Developer. (still learning!)
+- I am a Hardware and Software Technician and a Full Stack Web Developer. (still learning more!)
 - I have a Middle Vocational Course in Microcomputer Systems and Networks and a Higher Vocational Course in Web Applications Development (both taken in IES El Caminàs, Spain)
 - I have two cats, I love reading, playing videogames and I collect tamagotchis
